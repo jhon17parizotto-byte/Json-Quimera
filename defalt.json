@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://imgur.com/a/rUMQR3S.png",
+      "iconurl": "https://imgur.com/a/ZIKXtVa",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -17,8 +17,8 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Welcome",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "buttontext": "Seja Bem Vindo",
+        "imageurl": "",
         "content": [
           {
             "title": "Seja Bem Vindo",
@@ -50,4 +50,5 @@
     ],
     "version": 2
   }
+
 }
