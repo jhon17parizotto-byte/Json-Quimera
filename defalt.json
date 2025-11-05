@@ -17,12 +17,12 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Welcome",
+        "buttontext": "Bem Vindos(a)",
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "Bem Vindo ao Quimera",
-            "text": "Bem-vindo ao servidor. Nosso servidor possui uma loja com kit inicial disponível para todos os jogadores.Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores.Leia as regras, participe dos grupos e aproveite sua estadia no servidor."
+            "title": "Bem Vindo(a) ao Quimera",
+            "text": "Nosso servidor possui uma loja com kit inicial disponível para todos os jogadores.Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores.Leia as regras, participe dos grupos e aproveite sua estadia no servidor."
           }
         ]
       },
@@ -33,7 +33,7 @@
         "content": [
           {
             "title": "Configurações do servidor:",
-            "text": "<TextStyle.LightBlue>Taxas do Servidor:/nXP e Farm 5x Tame:10X"
+            "text": "XP e Farm 5x Tame:10X"
           }
         ]
       }
@@ -42,6 +42,9 @@
       {
         "text": "Discord",
         "url": "https://discord.gg/2AsNJWYh9M"
+      },
+      {"text": "WhatsApp",
+        "url": "https://chat.whatsapp.com/Gtmmiy8oTmi0KtnqZgQJQv?mode=wwt"
       }
     ],
     "version": 2
