@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://imgur.com/a/ZIKXtVa",
+      "iconurl": "https://i.imgur.com/a/jQ5ZSlj.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -17,8 +17,8 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Seja Bem Vindo",
-        "imageurl": "",
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
             "title": "Seja Bem Vindo",
@@ -32,8 +32,8 @@
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "INI settings:",
-            "text": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update"
+            "title": "Taxas do Servidor:",
+            "text": "<TextStyle.LightBlue>Ini Header:</>"
           },
           {
             "title": "JSON settings:",
@@ -50,5 +50,4 @@
     ],
     "version": 2
   }
-
 }
