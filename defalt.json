@@ -27,8 +27,8 @@
         "buttontext": "Bem Vindos(a)",
         "content": [
           {
-            "text": "Nosso servidor possui uma loja com kit inicial disponível para todos os jogadores.Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores.Leia as regras, participe dos grupos e aproveite sua estadia no servidor.",
-            "title": "Bem Vindo(a) ao Quimera"
+            "title": "Bem Vindo(a) ao Quimera",
+            "text": "Nosso servidor possui uma loja com kit inicial disponível para todos os jogadores. Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores. Leia as regras, participe dos grupos e aproveite sua estadia no servidor."
           }
         ],
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
@@ -38,8 +38,8 @@
         "buttontext": "Taxas do Servidor",
         "content": [
           {
-            "text": "XP e Farm 5x Tame:10X",
-            "title": "Configurações do servidor:"
+            "title": "Configurações do Servidor:",
+            "text": "XP e Farm: 5x\nTame: 10x"
           }
         ],
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
