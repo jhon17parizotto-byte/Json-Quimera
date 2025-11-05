@@ -32,8 +32,8 @@
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "Taxas do Servidor:",
-            "text": "<TextStyle.LightBlue>Configurações do servidor:</>XP e Farm 5x</>Tame:10X"
+            "title": "Configurações do servidor:",
+            "text": "<TextStyle.LightBlue>Taxas do Servidor:/nXP e Farm 5x Tame:10X"
           }
         ]
       }
