@@ -38,7 +38,7 @@
         "buttontext": "Taxas do Servidor",
         "content": [
           {
-            "title": "<TextStyle.Red>Configurações do Servidor</>:",
+            "title": "<TextStyle.Red>Configuracoes do Servidor</>",
             "text": "XP e Farm: 5x\nTame: 10x"
           }
         ],
