@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/a/jQ5ZSlj.png",
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -21,23 +21,19 @@
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "Seja Bem Vindo",
+            "title": "Bem Vindo ao Quimera",
             "text": "Bem-vindo ao servidor. Nosso servidor possui uma loja com kit inicial disponível para todos os jogadores.Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores.Leia as regras, participe dos grupos e aproveite sua estadia no servidor."
           }
         ]
       },
       {
-        "layout": 2,
-        "buttontext": "Settings",
+        "layout": 1,
+        "buttontext": "Taxas do Servidor",
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
             "title": "Taxas do Servidor:",
-            "text": "<TextStyle.LightBlue>Ini Header:</>"
-          },
-          {
-            "title": "JSON settings:",
-            "text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+            "text": "<TextStyle.LightBlue>Configurações do servidor:</>XP e Farm 5x</>Tame:10X"
           }
         ]
       }
