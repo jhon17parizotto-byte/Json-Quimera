@@ -38,8 +38,8 @@
         "buttontext": "TAXAS DO SERVIDOR",
         "content": [
           {
-            "title": "<TextStyle.Red>Configuracoes do Servidor</>",
-            "text": "CONFIGURAÇÕES PRINCIPAIS\n\nExperiência (XP): 5x\nFarm (Coleta): 5x\nTaming (Domesticação): 5x\nNível Máximo dos Dinos Selvagens: 150\n\nCRIAÇÃO\nIncubação: 20x\nMaturação: 20x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 6 jogadores por tribo"
+            "title": "<TextStyle.green>Configuracoes do Servidor</>",
+            "text": "CONFIGURAÇÕES PRINCIPAIS\n\nExperiência (XP): 5x\nFarm (Coleta): 5x\nTaming (Domesticação): 5x\nNível Máximo dos Dinos Selvagens: 150\n\nCRIAÇÃO\nIncubação: 20x\nMaturação: 20x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 6 jogadores por tribo\nWipe de Dinos 3 em 3 Horas"
           }
         ],
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
