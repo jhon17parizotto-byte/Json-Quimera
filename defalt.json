@@ -39,7 +39,7 @@
         "content": [
           {
             "title": "<TextStyle.green>Configuracoes do Servidor</>",
-            "text": "<TextStyle.Red>CONFIGURAÇÕES PRINCIPAIS</>\n\nExperiência (XP): 5x\nFarm (Coleta): 5x\nTaming (Domesticação): 5x\nNível Máximo dos Dinos Selvagens: 150\n\nCRIAÇÃO\nIncubação: 20x\nMaturação: 20x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 4 jogadores por tribo\nWipe de Dinos de 3 em 3 Horas"
+            "text": "<TextStyle.Red>CONFIGURAÇÕES PRINCIPAIS</>\n\nExperiência (XP): 5x\nFarm (Coleta): 5x\nTaming (Domesticação): 5x\nNível Máximo dos Dinos Selvagens: 150\n\nCriação\nIncubação: 15x\nMaturação: 15x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 4 jogadores por tribo\nWipe de Dinos selvagens de 3 em 3 Horas"
           }
         ],
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
