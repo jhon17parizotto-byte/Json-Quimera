@@ -3,11 +3,11 @@
     "links": [
       {
         "text": "Discord",
-        "url": "https://discord.gg/2AsNJWYh9M"
+        "url": "https://discord.gg/Zj89tBK3Yh"
       },
       {
         "text": "WhatsApp",
-        "url": "https://chat.whatsapp.com/Gtmmiy8oTmi0KtnqZgQJQv?mode=wwt"
+        "url": "https://chat.whatsapp.com/BCwyPgFlLnUGXspLKIuARY"
       }
     ],
     "settings": {
@@ -27,8 +27,8 @@
         "buttontext": "Bem Vindos(a)",
         "content": [
           {
-            "title": "<TextStyle.Red>Bem Vindo(a) ao Quimera</>",
-            "text": "Nosso servidor possui uma loja com kit inicial disponível para todos os jogadores. Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores. Leia as regras, participe dos grupos e aproveite sua estadia no servidor.\nTemos Loja Dentro do jogo que voce acessa ao pressionar F1 no PC, Quadrado no PS5 e A no Xbox.\nA cada 15 minutos jogados ganham 50 pontos, Membros VIP ganham 4x mais pontos alem do acesso ao nosso mapa VIP Insaluna.\nMapas em Custer:\nThe Island\nExtinção\nScorched Earth\nRagnarok\nValguero\nInsaluna(VIP)"
+            "title": "<TextStyle.Red>Bem Vindo(a) ao Arkdrasil</>",
+            "text": "Nosso servidor possui kit inicial disponível para todos os jogadores. Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores. Leia as regras, participe dos grupos e aproveite sua estadia no servidor.\nTemos Loja Dentro do jogo que voce acessa ao pressionar F1 no PC, Quadrado no PS5 e A no Xbox.\nA cada 15 minutos jogados ganham 50 pontos, Membros VIP ganham 4x mais pontos alem do acesso ao nosso mapa VIP Insaluna.\nMapas em Custer:\nThe Island\nExtinção\nScorched Earth\nRagnarok\nValguero\nInsaluna(VIP)"
           }
         ],
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
@@ -39,7 +39,7 @@
         "content": [
           {
             "title": "<TextStyle.green>Configuracoes do Servidor</>",
-            "text": "<TextStyle.Red>CONFIGURAÇÕES PRINCIPAIS</>\n\nExperiência (XP): 5x\nFarm (Coleta): 5x\nTaming (Domesticação): 5x\nNível Máximo dos Dinos Selvagens: 150\n\nCriação\nIncubação: 15x\nMaturação: 15x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 4 jogadores por tribo\nWipe de Dinos selvagens de 6 em 6 Horas"
+            "text": "<TextStyle.Red>CONFIGURAÇÕES PRINCIPAIS</>\n\nExperiência (XP): 7x\nFarm (Coleta): 7x\nTaming (Domesticação):15x\nNível Máximo dos Dinos Selvagens: 200\n\nCriação\nIncubação: 20x\nMaturação: 20x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 4 jogadores por tribo\nWipe de Dinos selvagens de 6 em 6 Horas"
           }
         ],
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
