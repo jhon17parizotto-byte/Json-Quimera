@@ -1,22 +1,12 @@
 {
   "WBUI2": {
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/Zj89tBK3Yh"
-      },
-      {
-        "text": "WhatsApp",
-        "url": "https://chat.whatsapp.com/BCwyPgFlLnUGXspLKIuARY"
-      }
-    ],
     "settings": {
       "disableicontext": false,
       "hideicon": false,
       "hideiconafter": 60,
       "iconposition": 0,
       "icontextcolor": 0,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "https://i.imgur.com/Ksgs0gq.png",
       "openbutton": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
@@ -27,22 +17,22 @@
         "buttontext": "Bem Vindos(a)",
         "content": [
           {
-            "title": "<TextStyle.Red>Bem Vindo(a) ao Arkdrasil</>",
-            "text": "Nosso servidor possui kit inicial disponível para todos os jogadores. Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores. Leia as regras, participe dos grupos e aproveite sua estadia no servidor.\nTemos Loja Dentro do jogo que voce acessa ao pressionar F1 no PC, Quadrado no PS5 e A no Xbox.\nA cada 15 minutos jogados ganham 50 pontos, Membros VIP ganham 4x mais pontos alem do acesso ao nosso mapa VIP Insaluna.\nMapas em Custer:\nThe Island\nExtinção\nScorched Earth\nRagnarok\nValguero\nInsaluna(VIP)"
+            "title": "<TextStyle.Green>Bem Vindo(a) ao Quimera</>",
+            "text": "Nosso servidor possui kit inicial disponível para todos os jogadores. Temos grupos oficiais no Discord e no WhatsApp, que são obrigatórios para uma melhor comunicação com a administração e com os demais jogadores. Leia as regras, participe dos grupos e aproveite sua estadia no servidor.\nTemos Loja Dentro do jogo que voce acessa ao pressionar F1 no PC, Quadrado no PS5 e A no Xbox.\nMapas em Custer:\nThe Island\nExtinção\nLost Colony\nRagnarok\nValguero\nAstraeos(VIP)\n<TextStyle.LightBlue>Genesis part 1 (em breve)</>"
           }
         ],
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://i.imgur.com/KSHgouk.jpeg",
         "layout": 1
       },
       {
         "buttontext": "TAXAS DO SERVIDOR",
         "content": [
           {
-            "title": "<TextStyle.green>Configuracoes do Servidor</>",
-            "text": "<TextStyle.Red>CONFIGURAÇÕES PRINCIPAIS</>\n\nExperiência (XP): 7x\nFarm (Coleta): 7x\nTaming (Domesticação):15x\nNível Máximo dos Dinos Selvagens: 200\n\nCriação\nIncubação: 20x\nMaturação: 20x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 4 jogadores por tribo\nWipe de Dinos selvagens de 6 em 6 Horas"
+            "title": "<TextStyle.Green>Configuracoes do Servidor</>",
+            "text": "<TextStyle.Green>CONFIGURAÇÕES PRINCIPAIS</>\n\nExperiência (XP): 7x\nFarm (Coleta): 7x\nTaming (Domesticação):15x\nNível Máximo dos Dinos Selvagens: 200\n\nCriação\nIncubação: 20x\nMaturação: 20x\nImprint: Apenas 1 imprint para 100%\n\nTRIBO\nMáximo de 4 jogadores por tribo\nWipe de Dinos selvagens de 6 em 6 Horas"
           }
         ],
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://i.imgur.com/KSHgouk.jpeg",
         "layout": 1
       },
       {
@@ -56,9 +46,16 @@
         "layout": 1
       }
     ],
+    "links": [
+      {
+        "text": "<TextStyle.Blue>Discord</>",
+        "url": "https://discord.gg/tyUtuZtGHr"
+      },
+      {
+        "text": "<TextStyle.Green>WhatsApp</>",
+        "url": "https://chat.whatsapp.com/BCwyPgFlLnUGXspLKIuARY"
+      }
+    ],
     "version": 2
   }
 }
-
-
-
